@@ -100,3 +100,7 @@ This project is open for community contributions. Feel free to suggest improveme
 ---
 
 *Built with ❤️ for a decentralized future*
+
+## Contract Details:0xEdE6e7f403dACca907284dEfA918B4F9750BF288
+<img width="1920" height="1080" alt="Screenshot 2025-07-29 143621" src="https://github.com/user-attachments/assets/84855be2-701d-4e51-8121-2dec20af9d19" />
+
